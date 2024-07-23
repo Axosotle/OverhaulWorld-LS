@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "overhaulworld:block/pebbles1",
+		"particle": "overhaulworld:block/pebbles1"
+	},
+	"elements": [
+		{
+			"from": [5, 0, 5],
+			"to": [10, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 5, 2.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 5], "texture": "#0"},
+				"south": {"uv": [5, 0, 7.5, 2], "texture": "#0"},
+				"west": {"uv": [3, 3, 6, 5], "texture": "#0"},
+				"up": {"uv": [2.5, 3, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 0, 2.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0, 5],
+			"to": [10, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [0, 5, 2.5, 7], "texture": "#0"},
+				"east": {"uv": [0, 3, 3, 5], "texture": "#0"},
+				"south": {"uv": [5, 0, 7.5, 2], "texture": "#0"},
+				"west": {"uv": [3, 3, 6, 5], "texture": "#0"},
+				"up": {"uv": [2.5, 3, 0, 0], "texture": "#0"},
+				"down": {"uv": [5, 0, 2.5, 3], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 7],
+			"to": [5, 3, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 0, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 6.5, 4.5, 8], "texture": "#0"},
+				"east": {"uv": [2.5, 5, 4.5, 6.5], "texture": "#0"},
+				"south": {"uv": [6.5, 4, 7.5, 5.5], "texture": "#0"},
+				"west": {"uv": [4.5, 5, 6.5, 6.5], "texture": "#0"},
+				"up": {"uv": [7, 4, 6, 2], "texture": "#0"},
+				"down": {"uv": [3.5, 6.5, 2.5, 8.5], "texture": "#0"}
+			}
+		}
+	]
+}

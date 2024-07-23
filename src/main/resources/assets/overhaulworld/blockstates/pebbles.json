@@ -1,0 +1,66 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "overhaulworld:block/pebbles1",
+        "y": 270
+      },
+      {
+        "model": "overhaulworld:block/pebbles1",
+        "y": 180
+      },
+      {
+        "model": "overhaulworld:block/pebbles1"
+      },
+      {
+        "model": "overhaulworld:block/pebbles1",
+        "y": 90
+      },
+      {
+        "model": "overhaulworld:block/pebbles2",
+        "y": 270
+      },
+      {
+        "model": "overhaulworld:block/pebbles2",
+        "y": 180
+      },
+      {
+        "model": "overhaulworld:block/pebbles2"
+      },
+      {
+        "model": "overhaulworld:block/pebbles2",
+        "y": 90
+      },
+      {
+        "model": "overhaulworld:block/pebbles3",
+        "y": 270
+      },
+      {
+        "model": "overhaulworld:block/pebbles3",
+        "y": 180
+      },
+      {
+        "model": "overhaulworld:block/pebbles3"
+      },
+      {
+        "model": "overhaulworld:block/pebbles3",
+        "y": 90
+      },
+      {
+        "model": "overhaulworld:block/pebbles4",
+        "y": 270
+      },
+      {
+        "model": "overhaulworld:block/pebbles4",
+        "y": 180
+      },
+      {
+        "model": "overhaulworld:block/pebbles4"
+      },
+      {
+        "model": "overhaulworld:block/pebbles4",
+        "y": 90
+      }
+    ]
+  }
+}
